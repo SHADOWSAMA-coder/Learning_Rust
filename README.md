@@ -1,0 +1,1 @@
+This is just my journey to approaching rust from the book --The rust programming language.
